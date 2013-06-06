@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/usr/local/conf'
+let g:netrw_dirhist_2='/Users/brycehamrick/Documents/code/capture-plugins/vbulletin/janrain_capture'
+let g:netrw_dirhist_3='/Users/brycehamrick/Documents/code/sso-test/jr-pt-test-02.phpfogapp.com/wp-content/themes/twentyeleven'
+let g:netrw_dirhist_4='/home/brycehamrick/code/wordpress/php/wp-content/plugins/wordpress-importer'
+let g:netrw_dirhist_5='/Users/bryce/code/disqus-audiencesync-connector/config'
+let g:netrw_dirhist_6='/Users/bryce/.openshift'
